@@ -1,6 +1,7 @@
 capgemini
 scc
 atos
+sogeti
 sopra steria
 accenture
 ibm
