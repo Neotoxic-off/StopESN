@@ -1,6 +1,7 @@
 capgemini
 scc
 atos
+squad
 sogeti
 sopra steria
 accenture
