@@ -10,13 +10,11 @@ econocom
 cgi
 alten
 inetum
-orange business services
 docaposte
 akkodis
 computacenter
 neurones
 devoteam
-thales services numeriques
 spie ics
 axians
 tessi
@@ -47,7 +45,7 @@ hardis
 mc21
 niji
 antemeta
-klee group
+klee
 constellation
 apixit
 hn services
@@ -64,7 +62,7 @@ groupe interway
 proxiad
 cyllene
 alteca
-bk consulting
+bk
 it link
 metsys
 unyc
